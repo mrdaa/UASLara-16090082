@@ -1,1 +1,1 @@
-database name : webaji
+database name : db_webberita
